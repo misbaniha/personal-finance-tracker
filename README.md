@@ -38,3 +38,7 @@ README.md
 ```
 
 I created a zipped project at `/mnt/data/personal-finance-tracker.zip`. Download it and follow the steps above.
+
+## Demo Video
+[Watch Demo] https://drive.google.com/file/d/1ZQvfRW6lv9FA6aaOZr-turey78X91d8z/view?usp=drivesdk
+
